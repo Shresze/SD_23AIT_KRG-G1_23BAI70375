@@ -1,4 +1,4 @@
-# 📋 Software Requirements Specification (SRS)
+# Software Requirements Specification (SRS)
 ## Real-Time Food Delivery Tracking System
 
 **Student:** Shreshta | **UID:** 23BAI70375  
