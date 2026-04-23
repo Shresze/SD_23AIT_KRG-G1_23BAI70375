@@ -1,4 +1,4 @@
-# 🌐 API Design
+# API Design
 ## Real-Time Food Delivery Tracking System
 
 **Student:** Shreshta | **UID:** 23BAI70375  
