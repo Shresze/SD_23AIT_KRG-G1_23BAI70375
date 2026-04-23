@@ -1,4 +1,4 @@
-# 🏗️ High-Level Design (HLD)
+# High-Level Design (HLD)
 ## Real-Time Food Delivery Tracking System
 
 **Student:** Shreshta | **UID:** 23BAI70375  
